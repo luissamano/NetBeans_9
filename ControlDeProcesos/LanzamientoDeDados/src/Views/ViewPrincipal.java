@@ -7,7 +7,7 @@ package Views;
 
 /**
  *
- * @author marti
+ * @author martin
  */
 public class ViewPrincipal extends javax.swing.JFrame {
     
